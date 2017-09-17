@@ -1,0 +1,48 @@
+.title {
+	font-family: Courier, monospace;
+	font-size: 30px;
+	text-align: center; 
+
+}
+
+#random-number {
+	font-family: Courier, monospace;
+	float: left;
+	padding: 30px;
+	margin-left: 280px;
+
+
+}
+
+#result {
+	font-family: Courier, monospace;
+	text-align: center; 
+	padding: 28px;
+
+}
+
+#container {
+	margin: auto;
+	width: 32%;
+	padding: 10px;
+}
+
+#comment {
+	font-family: Courier, monospace;
+	font-size: 18px;
+	color: #BC8F8F;;
+	text-align: center; 
+
+}
+
+#text {
+	font-family: Courier, monospace;
+	font-size: 28px;
+	text-align: center; 
+}
+
+#score {
+	font-family: Courier, monospace;
+	font-size: 28px;
+	text-align: center; 
+}
